@@ -18,7 +18,8 @@ Testing the webserver
 
 
 ## OUTPUT:
-
+input.png
+output.png
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
